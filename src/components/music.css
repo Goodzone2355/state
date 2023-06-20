@@ -1,0 +1,20 @@
+.music__wrapper{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border: 1px solid rgb(184, 184, 184);
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 100%;
+}
+
+h2, h4{
+    margin: 0 0 20px 0;
+}
+
+h4:last-child{
+    margin: 0;
+}
